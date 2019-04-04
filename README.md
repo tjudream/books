@@ -1,5 +1,7 @@
 # books
 读书清单
+## Coursear
+* 《Learning How to Learn》学习如何学习
 
 ## 极客时间
 ### 视频课
@@ -41,6 +43,9 @@
 ### 视频
 * 《知识就是力量》 正在看
 
+# 书籍
+## 编程之道
+* 《The Pragmatic Programmer》——中文译本《序员修炼之道 : 从小工到专家》
 ## Go语言
 * 《Go并发编程实战》
 
